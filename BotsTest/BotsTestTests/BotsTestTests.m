@@ -27,7 +27,7 @@
 }
 
 - (void)test_addition_twoPlusTwo_isFour {
-    XCTAssert(2 + 2 == 4, @"2 + 2 should be 4 but %d was returned instead", 2+2);
+    XCTAssert(2 + 2 == 3, @"2 + 2 should be 4 but %d was returned instead", 2+2);
 }
 
 @end
